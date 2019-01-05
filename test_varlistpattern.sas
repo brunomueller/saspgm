@@ -24,3 +24,4 @@ proc print data=sashelp.class (obs=5);
    var %varListPattern(sashelp.class,?e*);
 run;
 title;
+

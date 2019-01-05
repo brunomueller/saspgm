@@ -3,9 +3,9 @@
   Von Bruno Mueller - 2017-08
   Selbstdokumentation und Modusauswahl von Mark Jordan
   Holen Sie sich eine Liste von Variablennamen aus einem Datensatz, 
-  die mit einem bestimmten Muster übereinstimmen.
+  die mit einem bestimmten Muster ï¿½bereinstimmen.
 
-  Platzhalter für Muster
+  Platzhalter fï¿½r Muster
   "*", 0 - n Zeichen
   "?", 1 Charakter
   Alle anderen Buchstaben, Zahlen werden entsprechend verwendet
